@@ -98,3 +98,11 @@ input:focus {
 #written-by-container a {
   color: #000;
 }
+@media screen and (min-width:412px){
+  main{
+    max-width: 185px;
+  }
+  h1{
+   text-align: left;
+  }
+}
